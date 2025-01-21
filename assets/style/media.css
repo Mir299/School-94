@@ -198,6 +198,10 @@
         flex-wrap: wrap;
         gap: 20px;
     }
+
+    .about__img{
+        width: 100%;
+       }
     
 }
 
@@ -222,6 +226,10 @@
 
   .about__content-text-title{
     font-size: 15px;
+  }
+
+  .about__img{
+   width: 100%;
   }
 
 }

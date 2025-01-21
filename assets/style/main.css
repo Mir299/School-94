@@ -285,13 +285,13 @@ padding-top: 20px;
  }
  
  .history__content-text-title{
-    text-align: left;
+    text-align: center;
  }
  
  .history__content-text-descr{
      font-weight: 400;
  font-size: 19px;
- text-align: justify;
+ text-align: center;
  color: #fff;
  font-family: 'Arial';
 
