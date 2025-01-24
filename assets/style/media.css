@@ -32,8 +32,9 @@
 
     .teachers__cards{
      padding: 1px 20px;
+     justify-content: space-around;
     }
-
+  
 }
 
 @media (max-width:992px) {

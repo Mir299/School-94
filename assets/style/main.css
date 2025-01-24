@@ -399,6 +399,7 @@ outline: #fff solid 1.5px;
     display: inline-block;
    
 }
+
 .footer__list-link:hover{
     transform: rotate(360deg);
 }
@@ -414,12 +415,10 @@ outline: #fff solid 1.5px;
 /* footer:create */
 
 .create{
-   padding: 50px 10px 0 10px;
+   padding: 60px 10px 0 15px;
 }
 
 .create-text{
     font-family: "Arial";
     color: gray;
-    
-   
 }
